@@ -1,0 +1,19 @@
+eps2015
+ServidorPruebasEPS.hol.es
+
+ServidorPruebasEPS.hol.es
+
+INGENIO LA UNION
+.............................................
+VIERNES 6 DE MARZO
+ A LAS 11:00 AM
+Francis Escobar
+
+
+'.....................................
+
+servidor BD: localhost
+usuario:  root
+contraseña BD: 1234
+
+https://www.facebook.com/AdalMnDz/photos_all
